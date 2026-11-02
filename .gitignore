@@ -1,0 +1,13 @@
+# Build output
+build/
+*.o
+*.obj
+*.elf
+*.bin
+*.ppm
+*.log
+
+# Editor / OS noise
+.vscode/
+Thumbs.db
+desktop.ini
